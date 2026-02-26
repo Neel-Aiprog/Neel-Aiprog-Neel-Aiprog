@@ -1,65 +1,36 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=The%20Ghost%20of%20Tsushima&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-</div>
+🎮 The Ghost of Neel Mhaske
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=The%20Ghost%20of%20Neel%20Mhaske&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" /> </div><h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&size=30&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=AI+ML+Apprentice;Gen+AI+Explorer;DSA+Samurai;The+Ghost+of+NIT+Surat" alt="Typing SVG" /> </h1><p align="center"> <img src="https://img.shields.io/badge/Clan-NIT%20Surat-5A3E2B?style=for-the-badge&logo=appveyor&logoColor=F7B42C&labelColor=black"/> <img src="https://img.shields.io/badge/Rank-Samurai%20in%20Training-gold?style=for-the-badge&labelColor=black&color=F7B42C"/> <img src="https://img.shields.io/badge/Current%20Quest-DSA%20Mastery-blue?style=for-the-badge&labelColor=black&color=F7B42C"/> </p><p align="center"> <i>"The code may break, but the spirit of the Ghost endures in every commit."</i><br> <b>― Neel Mhaske</b> </p>
+⚔️ THE WAY OF THE GHOST
+name: Neel Mhaske
+title: AI ML Developer in Training
+clan: Kirdaar Dramatics Club, NIT Surat
+current_quest: "Mastering the way of Data Structures & Algorithms"
+honor_score: 7.83 CGPA (Till Sem 3)
+allies: ["Nexus Cell", "Wellness Club", "DoAI & DoCSE"]
+seeking: "NLP Projects | Gen AI | AI ML Collaborations"
+<table> <tr> <td width="50%"> <h3>🗡️ THE SAMURAI PATH</h3> <p>Discipline. Structure. Honor in every line of code. Building with purpose and precision.</p> <ul> <li>🔹 <b>Current Training:</b> DSA (150+ problems solved)</li> <li>🔹 <b>Preferred Weapon:</b> Python, C, JavaScript</li> <li>🔹 <b>Dojo:</b> LeetCode, GitHub, Hackathons</li> </ul> </td> <td width="50%"> <h3>👻 THE GHOST PATH</h3> <p>Innovation. Adaptation. Finding creative solutions where none exist.</p> <ul> <li>🔹 <b>Current Mission:</b> Gen AI & NLP Exploration</li> <li>🔹 <b>Ghost Weapons:</b> LangChain, PyTorch, Django</li> <li>🔹 <b>Seeking:</b> AI ML project collaborations</li> </ul> </td> </tr> </table>
+🏆 HONORED BATTLES (Achievements)
+<div align="center"> <table> <tr> <td align="center" width="33%"> <h3>🥇 1st PLACE</h3> <p><b>Web Wonders Hackathon</b><br>SVNIT (2024-25)</p> <p><i>One-month-long battle</i></p> </td> <td align="center" width="33%"> <h3>🥈 2nd PLACE</h3> <p><b>Blitztron (Antaragnee)</b><br>IIT Gandhinagar</p> <p><i>Representing Kirdaar Dramatics Club</i></p> </td> <td align="center" width="33%"> <h3>🥉 3rd PLACE</h3> <p><b>Genesis Hackathon</b><br>SVNIT</p> <p><i>Gen AI Application</i></p> </td> </tr> </table> </div>
+⚡ THE FOUR STANCES (Tech Stack)
+<div align="center"> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>Python*</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>C</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>JavaScript</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>TypeScript</sub> </td> </tr> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /> <br><b>Water Stance</b><br><sub>Django*</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Next.js" width="65" height="65" /> <br><b>Water Stance</b><br><sub>Next.js</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> <br><b>Moon Stance</b><br><sub>MySQL*</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="65" height="65" /> <br><b>Ghost Weapon</b><br><sub>PyTorch</sub> </td> </tr> </table> </div>
+<small>* denotes elementary proficiency (Still training in the dojo)</small>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&size=35&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=I+am+the+Ghost;I+have+no+honor;But+I+write+clean+code" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Sakai%20Clan-5A3E2B?style=for-the-badge&logo=appveyor&logoColor=F7B42C&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Legend-Ghost%20of%20Iki%20Island-gold?style=for-the-badge&labelColor=black&color=F7B42C"/>
-  <img src="https://img.shields.io/badge/Status-Liberating%20Code-9cf?style=for-the-badge&labelColor=black&color=F7B42C"/>
-</p>
-
-<p align="center">
-  <i>"The life of a samurai is not his own. But the path of the Ghost... that I choose for myself."</i><br>
-  <b>― Jin Sakai</b>
-</p>
-
----
-
-<!-- ABOUT SECTION -->
-## ⚔️ THE WAY OF THE GHOST
-
-```
-name: Jin Sakai
-title: The Ghost of Tsushima
-clan: Sakai
-current_mission: "Liberating repositories from technical debt"
-location: "The Digital Domain of Tsushima"
-<table> <tr> <td width="50%"> <h3>🗡️ THE SAMURAI</h3> <p>Born to tradition. Raised in honor. I build with discipline, structure, and purpose. Clean architecture is my birthright.</p> <ul> <li>🔹 <b>Code of Bushido:</b> Clean code, clear documentation</li> <li>🔹 <b>Mastery:</b> Full-stack development</li> <li>🔹 <b>Virtue:</b> Integrity in every commit</li> </ul> </td> <td width="50%"> <h3>👻 THE GHOST</h3> <p>Forged in necessity. Born in shadows. When tradition fails, innovation rises. I find paths others cannot see.</p> <ul> <li>🔹 <b>Code of the Ghost:</b> Efficiency through creativity</li> <li>🔹 <b>Mastery:</b> Problem-solving & optimization</li> <li>🔹 <b>Virtue:</b> Results above all</li> </ul> </td> </tr> </table>
-<!-- TECH STACK SECTION -->
-⚡ THE FOUR STANCES
-<div align="center"> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br>Stone Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /> <br>Stone Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <br>Stone Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /> <br>Water Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /> <br>Wind Stance </td> </tr> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /> <br>Wind Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /> <br>Wind Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> <br>Moon Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" /> <br>Moon Stance </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> <br>Ghost Weapon </td> </tr> </table> </div>
-// Liberation Progress - Tsushima Digital Prefecture
-
-const liberation = {
-  region: "The Legacy Code Fortress",
-  objective: "Refactor monolithic application to microservices",
-  weaponOfChoice: "Docker & Kubernetes",
-  progress: 68, // percent
-  allies: ["Open Source Samurai", "Coffee Clan", "Late Night Scrolls"],
-  
-  nextObjective() {
-    return this.progress >= 100 
-      ? "🏆 Honor restored. Moving to new territory."
-      : "⚔️ Continue the fight. Code must be free.";
-  }
-};
-
-console.log(`"${liberation.region} will be liberated!"`);
-// Output: "The Legacy Code Fortress will be liberated!"
-<p align="center"> <img src="https://progress-bar.dev/68/?title=Liberation%20Progress&color=F7B42C&width=500" /> </p>
-<!-- STATS SECTION -->
-🏆 THE LEGEND GROWS
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,PR,Reviews,Followers,Repositories" /> </p><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7B42C&icon_color=F7B42C&text_color=D4A373&border_color=2e3b4e&include_all_commits=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=F7B42C&fire=F7B42C&currStreakLabel=D4A373&sideLabels=D4A373&border=2e3b4e" width="48%" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=D4A373&line=F7B42C&point=5A3E2B&area=true&hide_border=true" width="90%" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7B42C&text_color=D4A373&border_color=2e3b4e" width="45%" /> <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=F7B42C&text_color=D4A373&border_color=2e3b4e" width="45%" /> </div>
-<!-- HAIKU -->
+Stance	Technique	Mastery
+🗿 Stone Stance (Fundamentals)	Python* C JavaScript HTML/CSS	⚔️⚔️⚔️⚔️🤺
+💧 Water Stance (Frameworks)	Django* Next.js LangChain	⚔️⚔️⚔️🤺🤺
+🌙 Moon Stance (Data)	MySQL* APIs	⚔️⚔️🤺🤺🤺
+👻 Ghost Weapons (Special)	PyTorch LangChain Gen AI	⚔️⚔️⚔️🤺🤺
+🎯 CURRENT LIBERATION MISSIONS
+<details open> <summary><b>🌊 Oceanic</b> — <i>Ocean Exploration Platform</i></summary> <br> <table> <tr> <td><b>Role:</b></td> <td>Full-stack Developer (4-member team)</td> </tr> <tr> <td><b>Weapons:</b></td> <td>Next.js, TypeScript, JavaScript, Pexels API, Wikipedia API</td> </tr> <tr> <td><b>Deeds:</b></td> <td> • Integrated interactive maps visualizing 50+ marine species<br> • Built ocean simulation game with Phaser.js<br> • Implemented secure authentication with Clerk<br> • Developed shorts viewer, timeline, and feedback system </td> </tr> </table> </details><details open> <summary><b>🤖 Gen-AI Content Creation</b> — <i>AI Content Platform</i></summary> <br> <table> <tr> <td><b>Role:</b></td> <td>Full-stack Developer (3-member team)</td> </tr> <tr> <td><b>Weapons:</b></td> <td>Next.js, LangChain, Django, Pexels API, Unsplash API</td> </tr> <tr> <td><b>Deeds:</b></td> <td> • Integrated LangChain with LLMs (Groq) for 4+ content formats<br> • Built CKEditor workflow with PDF export<br> • Implemented dynamic image APIs from Unsplash & Pexels </td> </tr> </table> </details><details> <summary><b>⚔️ DSA Training Grounds</b> — <i>Current Quest</i></summary> <br> <p>Currently mastering the ancient art of Data Structures & Algorithms on LeetCode.</p> <p align="center"> <a href="https://leetcode.com/u/Suspciously_Neel/"> <img src="https://img.shields.io/badge/LeetCode-View%20Training-FFA116?style=for-the-badge&logo=leetcode&labelColor=black&color=F7B42C" /> </a> </p> </details>
+📊 THE LEGEND GROWS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Neel-Aiprog&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7B42C&icon_color=F7B42C&text_color=D4A373&border_color=2e3b4e&include_all_commits=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel-Aiprog&hide_border=true&background=0d1117&ring=F7B42C&fire=F7B42C&currStreakLabel=D4A373&sideLabels=D4A373&border=2e3b4e" width="48%" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Aiprog&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7B42C&text_color=D4A373&border_color=2e3b4e" width="45%" /> <img src="https://leetcard.jacoblin.cool/Suspciously_Neel?theme=dark&font=Noto%20Serif%20JP&ext=contest&bg=0d1117&text_color=D4A373&theme_color=F7B42C" width="45%" /> </div><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Neel-Aiprog&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&title=Stars,Commits,PullRequest,Issues,Repositories,Followers" /> </p>
 🍁 THE GHOST'S HAIKU
-<p align="center"> <i> Silent code commits<br> Bugs fall like autumn leaves<br> Production breathes peace </i> </p><p align="center"> <i> The wind carries words<br> Through networks and repositories<br> My legend persists </i> </p>
-<!-- CONNECT -->
-🏯 GATHER AT THE FALLEN LEAF INN
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="https://twitter.com/yourprofile"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="https://dev.to/yourprofile"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-5A3E2B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> </p>
-<!-- VISITOR COUNTER --><p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&label=Visiting%20Ronin&countColor=%23F7B42C&labelStyle=upper" /> </p>
-<!-- QUOTE --><p align="center"> <i>"You have no honor. And you will not be remembered."</i><br> <b>― Lord Shimura</b> </p><p align="center"> <i>"No. But my code will live forever."</i><br> <b>― The Ghost</b> </p>
-<!-- FOOTER --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=The%20wind%20guides%20you...&fontSize=30&fontColor=fff&animation=twinkling" /> </div><!-- "Forged in shadows, bound by purpose. The Ghost walks among us." -->
+<p align="center"> <i> Code flows like ocean<br> AI learns the ancient ways<br> Bugs fall to the Ghost </i> </p><p align="center"> <i> DSA battles rage<br> LeetCode problems fall like leaves<br> Mastery awaits </i> </p>
+🏯 ALLIANCES & RESPONSIBILITIES
+<div align="center"> <table> <tr> <td align="center"> <h3>🎭 Kirdaar</h3> <p>Dramatics Club<br>Member</p> <sub>Feb 2025 - Present</sub> </td> <td align="center"> <h3>⚡ Nexus</h3> <p>DoAI & DoCSE Cell<br>Representative</p> <sub>Aug 2024 - Present</sub> </td> <td align="center"> <h3>🧘 Wellness Club</h3> <p>Student Welfare<br>Web Developer</p> <sub>Jun 2025 - Present</sub> </td> </tr> </table> </div>
+🤝 SEEKING ALLIES FOR
+<p align="center"> <img src="https://img.shields.io/badge/NLP%20Projects-Open%20for%20Collaboration-success?style=for-the-badge&labelColor=black&color=F7B42C" /> <img src="https://img.shields.io/badge/Gen%20AI%20Projects-Seeking%20Team-success?style=for-the-badge&labelColor=black&color=F7B42C" /> <img src="https://img.shields.io/badge/AI%20ML%20Research-Let's%20Connect-success?style=for-the-badge&labelColor=black&color=F7B42C" /> </p>
+🍁 GATHER AT THE FALLEN LEAF INN
+<p align="center"> <a href="https://www.linkedin.com/in/neel-mhaske-800838343"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="https://leetcode.com/u/Suspciously_Neel/"> <img src="https://img.shields.io/badge/LeetCode-Train-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="https://github.com/Neel-Aiprog"> <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> </p><p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNeel-Aiprog&label=Visiting%20Ronin&countColor=%23F7B42C&labelStyle=upper" /> </p>
+<!-- QUOTE --><p align="center"> <i>"The strong do what they can. The Ghost does what they must."</i><br> <b>― Neel Mhaske, The Ghost of NIT Surat</b> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Open%20to%20AI%20ML%20Collaborations&fontSize=25&fontColor=fff&animation=twinkling" /> </div><!-- "Code is my katana. AI is my ghost weapon. The legend continues..." -->
