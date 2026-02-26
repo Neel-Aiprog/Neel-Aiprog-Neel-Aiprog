@@ -1,36 +1,120 @@
-🎮 The Ghost of Neel Mhaske
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=The%20Ghost%20of%20Neel%20Mhaske&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" /> </div><h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&size=30&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=AI+ML+Apprentice;Gen+AI+Explorer;DSA+Samurai;The+Ghost+of+NIT+Surat" alt="Typing SVG" /> </h1><p align="center"> <img src="https://img.shields.io/badge/Clan-NIT%20Surat-5A3E2B?style=for-the-badge&logo=appveyor&logoColor=F7B42C&labelColor=black"/> <img src="https://img.shields.io/badge/Rank-Samurai%20in%20Training-gold?style=for-the-badge&labelColor=black&color=F7B42C"/> <img src="https://img.shields.io/badge/Current%20Quest-DSA%20Mastery-blue?style=for-the-badge&labelColor=black&color=F7B42C"/> </p><p align="center"> <i>"The code may break, but the spirit of the Ghost endures in every commit."</i><br> <b>― Neel Mhaske</b> </p>
-⚔️ THE WAY OF THE GHOST
-name: Neel Mhaske
-title: AI ML Developer in Training
-clan: Kirdaar Dramatics Club, NIT Surat
-current_quest: "Mastering the way of Data Structures & Algorithms"
-honor_score: 7.83 CGPA (Till Sem 3)
-allies: ["Nexus Cell", "Wellness Club", "DoAI & DoCSE"]
-seeking: "NLP Projects | Gen AI | AI ML Collaborations"
-<table> <tr> <td width="50%"> <h3>🗡️ THE SAMURAI PATH</h3> <p>Discipline. Structure. Honor in every line of code. Building with purpose and precision.</p> <ul> <li>🔹 <b>Current Training:</b> DSA (150+ problems solved)</li> <li>🔹 <b>Preferred Weapon:</b> Python, C, JavaScript</li> <li>🔹 <b>Dojo:</b> LeetCode, GitHub, Hackathons</li> </ul> </td> <td width="50%"> <h3>👻 THE GHOST PATH</h3> <p>Innovation. Adaptation. Finding creative solutions where none exist.</p> <ul> <li>🔹 <b>Current Mission:</b> Gen AI & NLP Exploration</li> <li>🔹 <b>Ghost Weapons:</b> LangChain, PyTorch, Django</li> <li>🔹 <b>Seeking:</b> AI ML project collaborations</li> </ul> </td> </tr> </table>
-🏆 HONORED BATTLES (Achievements)
-<div align="center"> <table> <tr> <td align="center" width="33%"> <h3>🥇 1st PLACE</h3> <p><b>Web Wonders Hackathon</b><br>SVNIT (2024-25)</p> <p><i>One-month-long battle</i></p> </td> <td align="center" width="33%"> <h3>🥈 2nd PLACE</h3> <p><b>Blitztron (Antaragnee)</b><br>IIT Gandhinagar</p> <p><i>Representing Kirdaar Dramatics Club</i></p> </td> <td align="center" width="33%"> <h3>🥉 3rd PLACE</h3> <p><b>Genesis Hackathon</b><br>SVNIT</p> <p><i>Gen AI Application</i></p> </td> </tr> </table> </div>
-⚡ THE FOUR STANCES (Tech Stack)
-<div align="center"> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>Python*</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>C</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>JavaScript</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /> <br><b>Stone Stance</b><br><sub>TypeScript</sub> </td> </tr> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /> <br><b>Water Stance</b><br><sub>Django*</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Next.js" width="65" height="65" /> <br><b>Water Stance</b><br><sub>Next.js</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> <br><b>Moon Stance</b><br><sub>MySQL*</sub> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="65" height="65" /> <br><b>Ghost Weapon</b><br><sub>PyTorch</sub> </td> </tr> </table> </div>
-<small>* denotes elementary proficiency (Still training in the dojo)</small>
+<h1 align="center">⚔️ Neel Mhaske ⚔️</h1>
+<h3 align="center">「 AI Developer | Backend Engineer | Shadow of Code 」</h3>
 
-Stance	Technique	Mastery
-🗿 Stone Stance (Fundamentals)	Python* C JavaScript HTML/CSS	⚔️⚔️⚔️⚔️🤺
-💧 Water Stance (Frameworks)	Django* Next.js LangChain	⚔️⚔️⚔️🤺🤺
-🌙 Moon Stance (Data)	MySQL* APIs	⚔️⚔️🤺🤺🤺
-👻 Ghost Weapons (Special)	PyTorch LangChain Gen AI	⚔️⚔️⚔️🤺🤺
-🎯 CURRENT LIBERATION MISSIONS
-<details open> <summary><b>🌊 Oceanic</b> — <i>Ocean Exploration Platform</i></summary> <br> <table> <tr> <td><b>Role:</b></td> <td>Full-stack Developer (4-member team)</td> </tr> <tr> <td><b>Weapons:</b></td> <td>Next.js, TypeScript, JavaScript, Pexels API, Wikipedia API</td> </tr> <tr> <td><b>Deeds:</b></td> <td> • Integrated interactive maps visualizing 50+ marine species<br> • Built ocean simulation game with Phaser.js<br> • Implemented secure authentication with Clerk<br> • Developed shorts viewer, timeline, and feedback system </td> </tr> </table> </details><details open> <summary><b>🤖 Gen-AI Content Creation</b> — <i>AI Content Platform</i></summary> <br> <table> <tr> <td><b>Role:</b></td> <td>Full-stack Developer (3-member team)</td> </tr> <tr> <td><b>Weapons:</b></td> <td>Next.js, LangChain, Django, Pexels API, Unsplash API</td> </tr> <tr> <td><b>Deeds:</b></td> <td> • Integrated LangChain with LLMs (Groq) for 4+ content formats<br> • Built CKEditor workflow with PDF export<br> • Implemented dynamic image APIs from Unsplash & Pexels </td> </tr> </table> </details><details> <summary><b>⚔️ DSA Training Grounds</b> — <i>Current Quest</i></summary> <br> <p>Currently mastering the ancient art of Data Structures & Algorithms on LeetCode.</p> <p align="center"> <a href="https://leetcode.com/u/Suspciously_Neel/"> <img src="https://img.shields.io/badge/LeetCode-View%20Training-FFA116?style=for-the-badge&logo=leetcode&labelColor=black&color=F7B42C" /> </a> </p> </details>
-📊 THE LEGEND GROWS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Neel-Aiprog&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7B42C&icon_color=F7B42C&text_color=D4A373&border_color=2e3b4e&include_all_commits=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel-Aiprog&hide_border=true&background=0d1117&ring=F7B42C&fire=F7B42C&currStreakLabel=D4A373&sideLabels=D4A373&border=2e3b4e" width="48%" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Aiprog&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7B42C&text_color=D4A373&border_color=2e3b4e" width="45%" /> <img src="https://leetcard.jacoblin.cool/Suspciously_Neel?theme=dark&font=Noto%20Serif%20JP&ext=contest&bg=0d1117&text_color=D4A373&theme_color=F7B42C" width="45%" /> </div><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Neel-Aiprog&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&title=Stars,Commits,PullRequest,Issues,Repositories,Followers" /> </p>
-🍁 THE GHOST'S HAIKU
-<p align="center"> <i> Code flows like ocean<br> AI learns the ancient ways<br> Bugs fall to the Ghost </i> </p><p align="center"> <i> DSA battles rage<br> LeetCode problems fall like leaves<br> Mastery awaits </i> </p>
-🏯 ALLIANCES & RESPONSIBILITIES
-<div align="center"> <table> <tr> <td align="center"> <h3>🎭 Kirdaar</h3> <p>Dramatics Club<br>Member</p> <sub>Feb 2025 - Present</sub> </td> <td align="center"> <h3>⚡ Nexus</h3> <p>DoAI & DoCSE Cell<br>Representative</p> <sub>Aug 2024 - Present</sub> </td> <td align="center"> <h3>🧘 Wellness Club</h3> <p>Student Welfare<br>Web Developer</p> <sub>Jun 2025 - Present</sub> </td> </tr> </table> </div>
-🤝 SEEKING ALLIES FOR
-<p align="center"> <img src="https://img.shields.io/badge/NLP%20Projects-Open%20for%20Collaboration-success?style=for-the-badge&labelColor=black&color=F7B42C" /> <img src="https://img.shields.io/badge/Gen%20AI%20Projects-Seeking%20Team-success?style=for-the-badge&labelColor=black&color=F7B42C" /> <img src="https://img.shields.io/badge/AI%20ML%20Research-Let's%20Connect-success?style=for-the-badge&labelColor=black&color=F7B42C" /> </p>
-🍁 GATHER AT THE FALLEN LEAF INN
-<p align="center"> <a href="https://www.linkedin.com/in/neel-mhaske-800838343"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="https://leetcode.com/u/Suspciously_Neel/"> <img src="https://img.shields.io/badge/LeetCode-Train-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> <a href="https://github.com/Neel-Aiprog"> <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2e3b4e&color=F7B42C" /> </a> </p><p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNeel-Aiprog&label=Visiting%20Ronin&countColor=%23F7B42C&labelStyle=upper" /> </p>
-<!-- QUOTE --><p align="center"> <i>"The strong do what they can. The Ghost does what they must."</i><br> <b>― Neel Mhaske, The Ghost of NIT Surat</b> </p>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Open%20to%20AI%20ML%20Collaborations&fontSize=25&fontColor=fff&animation=twinkling" /> </div><!-- "Code is my katana. AI is my ghost weapon. The legend continues..." -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=AI+Developer;Backend+Engineer;DSA+Warrior;Forging+Logic+Like+a+Katana" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Suspciously_Neel/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.linkedin.com/in/neel-mhaske-800838343">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Neel-Aiprog">
+    <img src="https://img.shields.io/badge/GitHub-darkred?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🩸 About Me
+- 🎓 B.Tech in **Artificial Intelligence @ SVNIT Surat**
+- ⚔️ Focused on **DSA & Problem Solving**
+- 🤖 Exploring **AI / NLP / GenAI**
+- ⚙️ Backend Developer using **Django & Next.js**
+- 🎮 Building interactive systems & games
+
+---
+
+## 🗡️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,django,nextjs,mysql,pytorch,git" />
+</p>
+
+---
+
+## 🏯 Featured Projects
+
+### 🌊 Oceanic Platform
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" width="600"/>
+</p>
+
+- 🌐 Full-stack platform (Next.js + Node.js)
+- 🗺️ Interactive maps (Mapbox/Leaflet)
+- 🎮 Built Phaser.js ocean simulation game
+- 🔐 Authentication with Clerk
+
+---
+
+### 🤖 GenAI Content Platform
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="600"/>
+</p>
+
+- 🧠 AI content generation (LangChain + Django)
+- ✍️ Blogs, tweets, scripts, captions
+- 🖼️ Integrated Unsplash & Pexels APIs
+- 📄 Editor + PDF export pipeline
+
+---
+
+## 🏆 Achievements
+- 🥇 Web Wonders (SVNIT)
+- 🥈 Blitztron (IIT Gandhinagar)
+- 🥉 Genesis Hackathon (SVNIT)
+
+---
+
+## ⚔️ GitHub Battle Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neel-Aiprog&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000" />
+</p>
+
+---
+
+## 🔥 Combat Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Neel-Aiprog&theme=tokyonight&ring=ff0000&fire=ff0000" />
+</p>
+
+---
+
+## 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Aiprog&layout=compact&theme=tokyonight&title_color=ff0000" />
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Suspciously_Neel?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+## 🌱 Current Training Arc
+- Advanced **DSA (LeetCode grind)**
+- **C++ STL mastery**
+- **AI/ML + NLP exploration**
+
+---
+
+## 🎯 Future Path
+- 🚀 Crack top tech internships  
+- 🤖 Build impactful AI systems  
+- 🎮 Create a complete polished game  
+
+---
+
+## 🩶 Code Philosophy
+> “Discipline is the blade. Consistency is the strike.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer"/>
+</p>
