@@ -71,7 +71,7 @@
 </tr>
 </table>
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Neel-Aiprog&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF" width="48%" /> <img src="https://streak-stats.demolab.com/?user=Neel-Aiprog&theme=tokyonight&ring=00F7FF&fire=00F7FF" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Aiprog&layout=compact&theme=tokyonight&title_color=00F7FF" width="45%" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Neel-Aiprog&theme=tokyonight&ring=00F7FF&fire=00F7FF" width="48%" /> </p> <p align="center"> </p>
 💻 LeetCode Stats
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Suspciously_Neel?theme=dark&font=Fira%20Code&ext=heatmap" width="70%" /> </p> <p align="center"> <a href="https://leetcode.com/u/Suspciously_Neel/"> <img src="https://img.shields.io/badge/LeetCode%20Profile-00F7FF?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
 🏆 Achievements
