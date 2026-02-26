@@ -37,6 +37,26 @@
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,django,nextjs,mysql,pytorch,git&theme=dark" /> </p>
+🚀 Featured Projects
+🌊 Oceanic Platform
+Type: Full Stack Web + Game Integration
+Tech: Next.js, TypeScript, Mapbox, Phaser.js
+Highlights:
+  - Interactive marine exploration
+  - Game simulation system
+  - Authentication + scalable UI
+
+🔗 https://github.com/Neel-Aiprog
+
+🤖 Gen-AI Content Platform
+Type: AI Powered Application
+Tech: Django, Next.js, LangChain, LLMs
+Highlights:
+  - Blog/script generation
+  - API integrations (Pexels, Unsplash)
+  - PDF export pipeline
+
+🔗 https://github.com/Neel-Aiprog
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Neel-Aiprog&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF" width="48%" /> <img src="https://streak-stats.demolab.com/?user=Neel-Aiprog&theme=tokyonight&ring=00F7FF&fire=00F7FF" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Aiprog&layout=compact&theme=tokyonight&title_color=00F7FF" width="45%" /> </p>
 💻 LeetCode Stats
